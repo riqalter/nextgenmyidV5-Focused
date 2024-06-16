@@ -16,7 +16,7 @@ The 5th generation of Mikail Thoriq’s personal website was built using Next.js
 
 ```bash
 # clone project
-$ git clone https://github.com/riqalter/nextgenmyidV5.git
+$ git clone https://github.com/riqalter/nextgenmyidV5-Focused.git
 
 # install dependencies
 $ npm install
